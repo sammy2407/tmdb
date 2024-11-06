@@ -10,6 +10,7 @@ To get an API key:
   -> Then fill in all the details about your application and save it you will get an API Key
 
 Dependency:
+
   -> SDWebImageSwiftUI -> https://github.com/SDWebImage/SDWebImageSwiftUI for image loading
   
 # Features:
